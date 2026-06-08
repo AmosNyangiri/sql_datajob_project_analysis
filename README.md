@@ -260,10 +260,10 @@ The analysis compared skill demand with average salary to identify the most valu
 SAS emerged as the highest-value skill in the dataset because it combines premium compensation with substantial employer demand. While Python and Tableau remain foundational skills for entering the field, SAS expertise may provide a significant salary advantage for analysts working in specialized industries.
 
 
-![Most Demanded Skills](Assets/Pic3.png)
+![Most Demanded Skills](Assets/pic3.png)
 *Bar graph visualizing Most Demanded Skills*
 
-![Most Demanded Skills](Assets/Pic4.png)
+![Most Demanded Skills](Assets/pic4.png)
 *Bar graph visualizing Highest Paying Skills*
 
 # Conclusion
