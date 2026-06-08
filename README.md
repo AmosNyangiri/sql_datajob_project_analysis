@@ -58,7 +58,7 @@ The salary range for the top 10 roles span from 184,000 to 650,000 indicating si
 **Variety job titles :**
 Their is a wide range of job titles under the data Analyst role showing a broad interest across different industries
 
-![Top paying roles](Assets\Pic1.png)
+![Top paying roles](Assets/Pic1.png)
 *Bar graph for the average salary distribution for the top 10 data analyst roles*
 
 **Diverse Employers :** 
@@ -115,7 +115,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC
 ```
-![Top paying roles](Assets\Pic2.png)
+![Top paying roles](Assets/Pic2.png)
 *Bar graph visualizing count of skills for the top 10 data analyst roles*
 
 #### Key Takeaway
@@ -260,10 +260,10 @@ The analysis compared skill demand with average salary to identify the most valu
 SAS emerged as the highest-value skill in the dataset because it combines premium compensation with substantial employer demand. While Python and Tableau remain foundational skills for entering the field, SAS expertise may provide a significant salary advantage for analysts working in specialized industries.
 
 
-![Most Demanded Skills](Assets\Pic3.png)
+![Most Demanded Skills](Assets/Pic3.png)
 *Bar graph visualizing Most Demanded Skills*
 
-![Most Demanded Skills](Assets\Pic4.png)
+![Most Demanded Skills](Assets/Pic4.png)
 *Bar graph visualizing Highest Paying Skills*
 
 # Conclusion
