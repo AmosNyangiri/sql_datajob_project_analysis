@@ -20,7 +20,7 @@ Several tools were used to complete the entire project
 - **SQL**: The core of the analysis that alloed me to query the database and identify critical insights
 - **Postgres**: This as the chooses database management system 
 - **Git & Github** : Essential for version control and sharing my sql scripts and analysis, ensuring project tracking
-- **Power Bi**: This was used to for visualization
+- **Excel**: This was used to for visualization
 
 # Analysis
 The different queries for this project aimed at investigating specific aspects of the data analyst job market by answering different questions
